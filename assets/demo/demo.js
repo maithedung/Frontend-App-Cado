@@ -377,8 +377,7 @@ demo = {
                 pointHoverRadius: 4,
                 pointHoverBorderWidth: 15,
                 pointRadius: 4,
-                data: [
-{
+                data: [{
                 x: 39,
                 y: 200
             },
@@ -619,8 +618,7 @@ demo = {
             {
                 x: 61.5,
                 y: 40
-            }
-                          ],
+            }],
             }]
         };
 
@@ -749,6 +747,7 @@ demo = {
                 x: 47,
                 y: 72
             },
+
             {
                 x: 47.5,
                 y: 72.4
